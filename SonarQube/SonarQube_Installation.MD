@@ -22,6 +22,7 @@ Download & unzip SonarQube 6.0
 ```sh
 # cd /opt
 # wget https://sonarsource.bintray.com/Distribution/sonarqube/sonarqube-6.0.zip
+wget https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-4.0.0.1744-linux.zip
 # unzip sonarqube-6.0.zip
 # mv /opt/sonarqube-6.0 /opt/sonar
 ```
